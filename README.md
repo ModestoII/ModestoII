@@ -1,10 +1,10 @@
-### Olá! Sou João Gabriel Modesto 
+### OLÁ, SOU JOÃO GABRIEL MODESTO
 
-- 🔭 Atualmente trabalho com back-end.
-- 🌱 Estou estudando front-end: html e css.
-- 📫 Ele/Dele
+- 🔭 ATUALMENTE ACADÊMICO DE COMPUTAÇÃO NA UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA - BELÉM/PARÁ.
+- 🌱 ÁREA DE ATUAÇÃO: HTML, CSS E JAVASCRIPT.
+- 📫 LINGUAGEM COMO HOBBIE: PYTHON.
 
-<div align="center">
+<div align="flex">
   <a href="https://github.com/ModestoII">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ModestoII&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModestoII&layout=compact&langs_count=7&theme=dark"/>
